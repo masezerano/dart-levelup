@@ -1,2 +1,7 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+<!-- dart basics -->
+<!-- dart methods()-->
+<!-- print(to print in the consol) -->
+<!-- contains(if it has) -->
+<!-- toString() -->
+<!-- isEven(if it is even) -->
+<!-- isOdd(if it is odd) -->
